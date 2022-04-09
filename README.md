@@ -1,3 +1,5 @@
-# josefalavi.github.io
+## josefalavi.github.io
 # Directory
-  [/About](https://josefalavi.github.io/about)
+
+&emsp; [/About](https://josefalavi.github.io/about)  
+&emsp; [/Notes](https://josefalavi.github.io/notes)
